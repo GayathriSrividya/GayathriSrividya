@@ -1,49 +1,49 @@
-<h1 align="center">Hi👋, I'm Rakshith</h1>
-<h3 align="center"> Full Stack + Data + Devops Engineer </h3>
+<h1 align="center">Hi👋, I'm Gayathri</h1>
+<h3 align="center"> Software Developer </h3>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+    <img src="">
 </p>
 
 ## 💫 About Me:
-I have a passion for software development with a diverse skillset ranging from the full-stack, data and devops to a stronghold on data structures and algorithms to solve real life problems.
+At Sanketika, a leading provider of open source solutions for agriculture, education and learning, I work as a Software Development Engineer (SDE-1), developing and deploying scalable and reliable APIs for various applications and platforms. 
 
-I have worked on buidling digital public goods like [sunbird](https://sunbird.org/product/building-blocks) and open networks like [HCX](https://hcxprotocol.io/), [Beckn](https://becknprotocol.io/), [ONEST](https://onest.network/).
-
-I am a open-source contributor and maintainer of [ONEST Specification](https://github.com/ONEST-Network/ONEST-Specification)
+I have contributed to the Sunbird Obsrv Open Source project, working on APIs and testing scripts for data collection, analysis, and visualization. I have also gained hands-on experience in using Kubernetes, Apache Flink, and other tools and frameworks for building and managing event-driven applications and ETL pipelines, handling real-time data processing and integration.
 
 ## 🌐 Socials:
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rakshith-shiva-68470112b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" /></a>
-<a href="shivarakshith1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail logo" /></a>
+<a href="https://www.linkedin.com/in/gayathri-rajavarapu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" /></a>
+<a href="gayathrirajavarapu7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail logo" /></a>
 </p>
 
 ## 💻 Tech Stack:
 
-### 🌐 Frontend
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Typescript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%#3178C6)
-<br/>
 
 ### 🔧 Backend
 
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23CC0000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 <br/>
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%#3178C6)
+<br/>
+
 
 ### 🔭 Data Engineering
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
 ![driud](https://img.shields.io/badge/Apache%20Druid-29F1FB.svg?style=for-the-badge&logo=Apache-Druid&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
- ![minio](https://img.shields.io/badge/MinIO-C72E49.svg?style=for-the-badge&logo=MinIO&logoColor=white)
  ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
