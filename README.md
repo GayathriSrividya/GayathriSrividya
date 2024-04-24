@@ -2,9 +2,7 @@
 <h3 align="center"> Software Developer </h3>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFkZ3V1NGZpczJkemU3dHZpMWthODdkZGVsemNlZnVrbWhqenRobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif">
-
- 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFkZ3V1NGZpczJkemU3dHZpMWthODdkZGVsemNlZnVrbWhqenRobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" width="150">
 </p>
 
 ## 💫 About Me:
