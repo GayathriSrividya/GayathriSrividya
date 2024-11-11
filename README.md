@@ -19,12 +19,14 @@ I have contributed to the Sunbird Obsrv Open Source project, working on APIs and
 
 
 # 📊 GitHub Stats:
+<!---
 ![](https://github-readme-stats.vercel.app/api?username=GayathriSrividya&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GayathriSrividya&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GayathriSrividya&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GayathriSrividya" alt="Shiva Rakshith" /></a> </p>
+--->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GayathriSrividya&limit=5&theme=algolia&combine_all_yearly_contributions=true)
