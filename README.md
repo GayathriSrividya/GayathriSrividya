@@ -6,9 +6,10 @@
 </p>
 
 ## 💫 About Me:
-At Sanketika, a leading provider of open source solutions for agriculture, education and learning, I work as a Software Development Engineer (SDE-1), developing and deploying scalable and reliable APIs for various applications and platforms. 
+I work as a Software Consulting Engineer, developing and deploying scalable and reliable microservices and platforms. 
 
-I have contributed to the Sunbird Obsrv Open Source project, working on APIs and testing scripts for data collection, analysis, and visualization. I have also gained hands-on experience in using Kubernetes, Apache Flink, and other tools and frameworks for building and managing event-driven applications and ETL pipelines, handling real-time data processing and integration.
+I have contributed to the Sunbird, an Open Source project, working on backend workflows and testing scripts for data collection, analysis, and visualization. I have also gained hands-on experience in using Docker, 
+Kubernetes, Apache Flink, Apache Kafka, and other tools and frameworks for building and managing event-driven applications and ETL pipelines, handling real-time data processing and integration.
 
 ## 🌐 Socials:
 <p align="center">
