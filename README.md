@@ -1,5 +1,7 @@
-![header](./banner.png)
-
+<div align="center">
+  <img src="./banner.png" alt="header" width="50%">
+</div>
+ 
 ---
 
 I design systems that move data at scale — pipelines that don't miss SLAs, streams that don't drop events, infra that deploys itself. Currently at Cisco on network observability. Previously built the data layer for a national-scale payments platform.
