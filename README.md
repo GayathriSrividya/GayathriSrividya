@@ -37,7 +37,7 @@ Currently, I work at **Cisco** on **network observability**. Previously, I helpe
 
 ## 🚀 Things I’ve Shipped
 
-I’m a **data engineer with 3 years of experience** across payments infrastructure, open source data platforms, and network observability.
+I’m a **data engineer with 4+ years of experience** across payments infrastructure, open source data platforms, and network observability.
 
 My work sits mostly in the **orchestration, transformation, and deployment layers**, using tools like **Airflow, Spark, Flink, Kafka, Kubernetes, Helm, and Terraform**.
 
