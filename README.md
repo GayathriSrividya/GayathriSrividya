@@ -1,87 +1,66 @@
- 
-<div align="center">
-  <img src="./banner.png" alt="Header banner" width="50%" />
-</div>
+
+# Hi, I'm Gayathri Srividya 👋
+
+Data engineer working across distributed data systems, data pipelines, and infrastructure.
+
+Currently at **Cisco**, working on network observability. Previously, I worked on data infrastructure for a large-scale payments platform and contributed to an open-source data platform.
+
+[GitHub repositories](https://github.com/GayathriSrividya?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/gayathri-rajavarapu)
 
 ---
 
-# Hi, I’m Gayathri Srividya 👋
+## Open Source
 
-I design systems that move data at scale: pipelines that do not miss SLAs, streams that do not drop events, and infrastructure that deploys itself.
+I contribute to open-source data infrastructure, including Apache Airflow and Apache Iceberg Python.
 
-Currently, I work at **Cisco** on **network observability**. Previously, I helped build the data layer for a **national-scale payments platform**.
+- **[Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+state%3Amerged+author%3AGayathriSrividya)** — merged pull requests
+- **[Apache Iceberg Python](https://github.com/apache/iceberg-python/pulls?q=is%3Apr+state%3Amerged+author%3AGayathriSrividya)** — merged pull requests
+- **[All my merged pull requests](https://github.com/pulls/search?q=is%3Apr+author%3AGayathriSrividya+state%3Amerged+sort%3Aupdated-desc)**
 
----
-
-## 🧠 What I Work With
-
-### Data Engineering & Processing
-
-`Pipeline Orchestration` · `Stream Processing` · `Batch ETL at Scale` · `Event-Driven Architecture`
-
-### Distributed Systems & Infrastructure
-
-`Distributed Systems` · `Data Lake Design` · `Multi-Cloud Deployments` · `Infrastructure as Code`
-
-### Reliability & Automation
-
-`Failure Recovery` · `SLA Monitoring` · `CI/CD Automation` · `Open Source`
-
-### Tools & Technologies
-
-`Airflow` · `Spark` · `PySpark` · `Flink` · `Kafka` · `Hudi` · `Trino`  
-`Python` · `Scala` · `Kubernetes` · `Terraform` · `Helm`  
-`AWS` · `GCP` · `Azure`
+I have also contributed 100+ pull requests across an open-source data platform, spanning stream processing, APIs, connectors, and deployment tooling.
 
 ---
 
-## 🚀 Things I’ve Shipped
+## Experience
 
-I’m a **data engineer with 4+ years of experience** across payments infrastructure, open source data platforms, and network observability.
+**Cisco — Network Observability**
 
-My work sits mostly in the **orchestration, transformation, and deployment layers**, using tools like **Airflow, Spark, Flink, Kafka, Kubernetes, Helm, and Terraform**.
+Working on network telemetry pipelines, from data ingestion through deployment.
 
-### Payments Infrastructure
+**Payments Infrastructure**
 
-In my first role, I owned Spark pipelines for a high-volume payments platform. I learned what it takes to keep large batch workloads reliable, optimized, and on schedule, while contributing to significant reductions in compute usage.
+Worked on Spark pipelines for a high-volume payments platform, including workload optimization and compute efficiency.
 
-### Open Source Data Platform
+**Open-Source Data Platform**
 
-I also worked as a backend contributor to an open source data platform, shipping **100+ pull requests** across:
-
-- Stream processing jobs
-- Kafka connectors
-- APIs
-- Multi-cloud deployment tooling
-
-### Network Observability
-
-I’m currently building network telemetry pipelines at a large tech company, working across the full stack from ingestion to deployment.
+Contributed to backend services, stream-processing jobs, connectors, and multi-cloud deployment tooling.
 
 ---
 
-## 💪 Where I’m Strongest
+## Technical Skills
 
-- **Airflow orchestration**  
-  Designing DAGs that handle real-world failures from the start.
+**Workflow Orchestration**  
+Apache Airflow · DAG authoring · TaskFlow API · Dynamic task mapping · Deferrable operators · Retries and failure recovery · SLA monitoring
 
-- **Spark optimization**  
-  Rewriting slow or resource-heavy workloads to improve performance and reduce compute usage.
+**Data Processing & ETL**  
+Apache Spark · PySpark · Apache Flink · Kafka · Hudi · Trino · dbt
 
-- **Kafka-based stream processing**  
-  Building high-throughput event pipelines that are reliable under load.
+**Programming Languages**  
+Python · Scala · Go · SQL · TypeScript · JavaScript
 
-- **Data lake tooling**  
-  Working with Hudi and Trino for scalable data lake architectures.
+**Cloud & Infrastructure**  
+AWS · Azure · GCP · Kubernetes · Helm · Terraform · Docker
 
-- **Cloud infrastructure & CI/CD**  
-  Using Kubernetes, Helm, Terraform, and CI/CD pipelines to make deployments repeatable across AWS, GCP, and Azure.
+**Databases & Storage**  
+PostgreSQL · Apache Druid · Redis · Elasticsearch · Cassandra
 
-Debugging is something I’ve gotten good at out of necessity. When a pipeline breaks in production, I’m usually the one tracing it back to the source.
+**CI/CD & Observability**  
+GitHub Actions · GitLab CI · Jenkins · CircleCI · Prometheus · Grafana · SonarQube · Kong
+
+[Explore my repositories →](https://github.com/GayathriSrividya?tab=repositories)
 
 ---
 
-## 📫 Say Hi
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-rajavarapu)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GayathriSrividya)
+[LinkedIn](https://www.linkedin.com/in/gayathri-rajavarapu)&#x20;
